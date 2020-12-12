@@ -27,7 +27,3 @@ Contact information displays name, position, and email
 ```
 
 
-## Video of Project
-![Example screenshot](./img/screenshot.png)
-
-## Sources
